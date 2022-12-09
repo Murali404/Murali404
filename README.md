@@ -76,7 +76,7 @@ h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+
 
 ![CyberSecurity](https://img.shields.io/badge/CyberSecurity-013243?style=flat-square&logo=CyberSecurity &logoColor=white)
 
@@ -106,7 +106,7 @@ h3><b><samp>Skills and Languages</samp></b></h3>
 
 
 
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+
 
 
 
