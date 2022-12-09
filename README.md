@@ -44,7 +44,7 @@
 
 📫 How to reach me: muralilucky001@gmail.com
 
-📫 reach me through instagram @ruthless_rowdy_official
+📫 reach me through instagram @mr_introvert_off
 
 <br>
 
